@@ -3,6 +3,7 @@
 ### Indoor Antenna Performance Analysis and Optimization Using MATLAB & Simulink
 
 <div align="center">
+  
 ![Competition](https://img.shields.io/badge/Competition-MathWorks%20Global%20Student%20Challenge%202026-blue)
 ![Category](https://img.shields.io/badge/Category-Wireless-8A2BE2)
 ![Topic](https://img.shields.io/badge/Indoor-Propagation-orange)
