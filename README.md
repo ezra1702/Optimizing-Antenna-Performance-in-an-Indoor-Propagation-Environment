@@ -3,7 +3,6 @@
 ### Indoor Antenna Performance Analysis and Optimization Using MATLAB & Simulink
 
 <div align="center">
-
 ![Competition](https://img.shields.io/badge/Competition-MathWorks%20Global%20Student%20Challenge%202026-blue)
 ![Category](https://img.shields.io/badge/Category-Wireless-8A2BE2)
 ![Topic](https://img.shields.io/badge/Indoor-Propagation-orange)
@@ -95,9 +94,9 @@ All AI-assisted outputs will be reviewed and validated by the project team.
 
 
 ## Project Developper
-1. JHONS JANNER SAMUEL .S
-2. Ezra
-3. Muhamad Al Fatih
+- JHONS JANNER SAMUEL .S
+- Ezra
+-  Muhamad Al Fatih
 
 
 ## 🏆 Competition
